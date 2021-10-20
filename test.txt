@@ -1,3 +1,5 @@
 1. Print the name of your primary school.
 2. Print the name of your pet.
+3. Print name of your favourite fruit.
+4. Print the name of your home town.
 
